@@ -1,0 +1,2 @@
+# fotos
+imágenes de productos 
